@@ -9,3 +9,4 @@ $busca = new Search;
 $resultado = $busca->getAddressFromZipcode('88085201');
 
 print_r($resultado);
+?>
